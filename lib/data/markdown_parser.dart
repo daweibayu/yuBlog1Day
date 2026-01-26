@@ -1,15 +1,19 @@
 /// Markdown 解析工具
 class MarkdownParser {
-  /// 移除 Front Matter
-  static String removeFrontMatter(String content) {
+  static const String defaultExcerptSeparator = '<!--more-->';
+
+  /// 解析 Front Matter，返回 (frontMatter, body)
+  static (Map<String, String>, String) parseFrontMatter(String content) {
+    final frontMatter = <String, String>{};
+
     if (!content.trimLeft().startsWith('---')) {
-      return content;
+      return (frontMatter, content);
     }
-    
+
     final lines = content.split('\n');
     int frontMatterEnd = -1;
     bool foundFirst = false;
-    
+
     for (int i = 0; i < lines.length; i++) {
       if (lines[i].trim() == '---') {
         if (!foundFirst) {
@@ -18,18 +22,27 @@ class MarkdownParser {
           frontMatterEnd = i;
           break;
         }
+      } else if (foundFirst && lines[i].contains(':')) {
+        final colonIndex = lines[i].indexOf(':');
+        final key = lines[i].substring(0, colonIndex).trim();
+        var value = lines[i].substring(colonIndex + 1).trim();
+        // 移除引号
+        if ((value.startsWith('"') && value.endsWith('"')) ||
+            (value.startsWith("'") && value.endsWith("'"))) {
+          value = value.substring(1, value.length - 1);
+        }
+        frontMatter[key] = value;
       }
     }
-    
+
     if (frontMatterEnd > 0) {
-      return lines.sublist(frontMatterEnd + 1).join('\n').trim();
+      return (frontMatter, lines.sublist(frontMatterEnd + 1).join('\n').trim());
     }
-    return content;
+    return (frontMatter, content);
   }
 
   /// 处理图片路径，将相对路径转为绝对 URL
   static String processImageUrls(String content, String baseUrl) {
-    // 匹配 Markdown 图片语法：![alt](url)
     final imgRegex = RegExp(r'!\[([^\]]*)\]\((/[^)]+)\)');
     return content.replaceAllMapped(imgRegex, (match) {
       final alt = match.group(1) ?? '';
@@ -38,15 +51,14 @@ class MarkdownParser {
     });
   }
 
-  /// 移除 HTML 注释（如 <!--more-->、<!-- xxx --> 等）
-  static String removeHtmlComments(String content) {
-    return content.replaceAll(RegExp(r'<!--[\s\S]*?-->'), '');
-  }
-
   /// 处理 Markdown 内容
   static String process(String content, {String? imageBaseUrl}) {
-    var result = removeFrontMatter(content);
-    result = removeHtmlComments(result);
+    final (frontMatter, body) = parseFrontMatter(content);
+
+    // 获取 excerpt_separator 并移除
+    final separator = frontMatter['excerpt_separator'] ?? defaultExcerptSeparator;
+    var result = body.replaceAll(separator, '');
+
     if (imageBaseUrl != null) {
       result = processImageUrls(result, imageBaseUrl);
     }
