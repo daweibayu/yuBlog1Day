@@ -4,7 +4,7 @@ import 'models.dart';
 
 /// API 客户端
 class ApiClient {
-  static const String baseUrl = 'https://daweibayu.github.io/yuBlog1Day';
+  static const String baseUrl = 'https://daweibayu.fun/yuBlog1Day';
   static const String articlesBase = '$baseUrl/articles';
 
   final http.Client _client;
