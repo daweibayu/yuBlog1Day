@@ -38,12 +38,18 @@ class MarkdownParser {
     });
   }
 
+  /// 移除 HTML 注释（如 <!--more-->、<!-- xxx --> 等）
+  static String removeHtmlComments(String content) {
+    return content.replaceAll(RegExp(r'<!--[\s\S]*?-->'), '');
+  }
+
   /// 处理 Markdown 内容
   static String process(String content, {String? imageBaseUrl}) {
     var result = removeFrontMatter(content);
+    result = removeHtmlComments(result);
     if (imageBaseUrl != null) {
       result = processImageUrls(result, imageBaseUrl);
     }
-    return result;
+    return result.trim();
   }
 }
