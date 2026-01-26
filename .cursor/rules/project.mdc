@@ -1,0 +1,7 @@
+---
+description: Flutter 博客项目开发规则
+globs: 
+alwaysApply: true
+---
+
+@.ai/cursor-rules.md
