@@ -1,7 +1,1221 @@
 {
-  "generatedAt": "2026-01-26T07:15:52.828047Z",
+  "generatedAt": "2026-01-27T06:21:51.230552Z",
   "pageSize": 10,
   "posts": [
+    {
+      "id": "2025-11-17-ioshotpublish",
+      "title": "iOS 紧急发布流程",
+      "date": "2025-11-17",
+      "tags": [
+        "iOS"
+      ],
+      "author": "daweibayu",
+      "excerpt": "但当遇到线上包问题时，如下处理流程应该是目前为止最快的、最小创伤的修复方式了（本文只讲述流程，不涉及问题原因及复盘），大概流程如下： 1. 收到线上问题反馈 2. 开发侧介入，确认问题原因及重要程度 3. 修改销售范围，禁用所有地区下载（生效时间约 10 分钟） 3. 在修改销售范围同时，做问题修复",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2025-11-17-ioshotpublish.md"
+    },
+    {
+      "id": "2025-03-04-thread_api",
+      "title": "Thread API",
+      "date": "2025-03-04",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "最近在面试，遇到不少要手撕 Thread 相关的面试题，发现确实有不少东西还是模棱两可，所以写本文梳理一下线程相关逻辑。本文不重在线程相关的原理，而是使用。为了让本文更专注一点，所以只列 API。 pthread 不管是 Kotlin、Java 还是其他 JVM 语言，本身的线程都是由 Native",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2025-03-04-thread_api.md"
+    },
+    {
+      "id": "2025-02-22-androidpluginization",
+      "title": "",
+      "date": "2025-02-22",
+      "tags": [],
+      "author": "",
+      "excerpt": "",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2025-02-22-androidpluginization.md"
+    },
+    {
+      "id": "2025-01-24-pdlprice",
+      "title": "胖东来调研",
+      "date": "2025-01-24",
+      "tags": [
+        "民生"
+      ],
+      "author": "daweibayu",
+      "excerpt": "起因 慕名已久。于群中闲聊，一人说胖东来属于消费升级，对此结论颇不认同。眼见为实，遂有此行。 米面粮油 | 商品名称 | 价格 | 备注 | | ------ | ------ | ------ | | 千禾糯米香醋 500ml | 9.2 | | | 恒顺姜汁醋 500ml | 8 | | | 千",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2025-01-24-pdlprice.md"
+    },
+    {
+      "id": "2025-01-24-laointro",
+      "title": "老挝语简介",
+      "date": "2025-01-24",
+      "tags": [
+        "外语"
+      ],
+      "author": "daweibayu",
+      "excerpt": "简介 老挝语有几个种类，以下以万象音为准。 声调 老挝语有6个声调 低平调 中平调 高平调 中升调 高降调 低降调 语序 句子基本语序：主语 + 谓语 + 宾语，修饰语置后。 老挝语发音是孤立型 老挝语文字与泰语文字大同小异，是在梵文和巴利文的基础上演变而来 老挝文 老挝文（文字）有两种不同形体 多",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2025-01-24-laointro.md"
+    },
+    {
+      "id": "2025-01-05-thai_intro",
+      "title": "泰语简介",
+      "date": "2025-01-05",
+      "tags": [
+        "外语"
+      ],
+      "author": "daweibayu",
+      "excerpt": "泰语是一种音节文字（表音文字的一种，每个符号代表一个音节而不是单个字母）。 字母表：共 44 个辅音字母（高辅音、中辅音、低辅音）和 32 个元音符号（单元音、复合元音、特殊元音） 声调：5 个声调，包括高、中、低、升调和降调 音节：声母、韵母、声调、尾音 辅音：44个 高辅音（11个） 中辅音（9",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2025-01-05-thai_intro.md"
+    },
+    {
+      "id": "2024-12-28-stories_former_job",
+      "title": "前公司二三事",
+      "date": "2024-12-28",
+      "tags": [
+        "生活杂谈"
+      ],
+      "author": "daweibayu",
+      "excerpt": "其实想写此文由来已久，但顾虑颇多，公开表达自己的观点与价值观，利弊皆有，孰多孰少却一直没考虑明白，所以一直也不太想发到公网。思来想去，总感觉是作茧自缚，做人只要光明正大，所说确为所想，知行合一，无愧于心，其实也就够了。 咱们先纵向讲各司的故事，然后有机会在横向对比。 有缘看到此文之人，若感有所得，宾",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-12-28-stories_former_job.md"
+    },
+    {
+      "id": "2024-12-27-esim2fly",
+      "title": "【转载】esim2fly 申请",
+      "date": "2024-12-27",
+      "tags": [
+        "生活杂谈"
+      ],
+      "author": "daweibayu",
+      "excerpt": "本文转载自 数字牧民LC - 2024能在中国长期接收短信的低资费国外 eSIM 保号卡... 相关视频 DigitalNomadLC - 2024年低资费、能在中国长期接收短信的国外eSIM保号卡... ps：转载纯粹用于备忘（因为我买了），如需其他类型卡，请参考上述链接中博主的视频与文章 正文 ",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-12-27-esim2fly.md"
+    },
+    {
+      "id": "2024-12-15-flutterMixin",
+      "title": "Flutter Mixin 详解",
+      "date": "2024-12-15",
+      "tags": [
+        "Flutter"
+      ],
+      "author": "daweibayu",
+      "excerpt": "Dart 不支持多继承，但通过 mixin 可以混入多个类的行为。mixin 是一种特殊的类，用于将功能注入到其他类中。 一个类可以混入多个 mixin： 使用 on 关键字限制 mixin 只能被指定类型的类混入。 多继承替代方案：Mixin 3. Mixin 和继承的区别 • 继承 是 “is-",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-12-15-flutterMixin.md"
+    },
+    {
+      "id": "2024-11-27-yuvguide",
+      "title": "YUV 简介",
+      "date": "2024-11-27",
+      "tags": [
+        "protocol"
+      ],
+      "author": "daweibayu",
+      "excerpt": "示例图片和 YUV420 数据 图片和各分量的可视化 1. 左上：原始 RGB 图像（8x8 像素的红绿棋盘格）。 2. 右上：Y 分量（亮度），显示每个像素的灰度值。 3. 左下：U 分量（色度蓝），以 4:2:0 子采样后的灰度值表示。 4. 右下：V 分量（色度红），以 4:2:0 子采样后的",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-27-yuvguide.md"
+    },
+    {
+      "id": "2024-11-21-surfaceview_textureview",
+      "title": "SurfaceView vs TextureView",
+      "date": "2024-11-21",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-21-surfaceview_textureview.md"
+    },
+    {
+      "id": "2024-11-19-social_info_index",
+      "title": "社会信息索引",
+      "date": "2024-11-19",
+      "tags": [
+        "生活杂谈"
+      ],
+      "author": "daweibayu",
+      "excerpt": "现在信息冗杂，电子媒体源也容易丢失，所以将这一鳞半爪的信息索引记录于此，方便以后追溯。 2025 2 月 当地时间18日，俄罗斯和美国代表团在沙特阿拉伯首都利雅得举行会谈，会谈持续了约四个半小时。俄外长拉夫罗夫、俄总统助理乌沙科夫、美国务卿鲁比奥、美总统国家安全事务助理华尔兹等人参与 1 月 202",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-19-social_info_index.md"
+    },
+    {
+      "id": "2024-11-11-mvvm",
+      "title": "",
+      "date": "2024-11-11",
+      "tags": [],
+      "author": "",
+      "excerpt": "",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-11-mvvm.md"
+    },
+    {
+      "id": "2024-11-11-mvi",
+      "title": "",
+      "date": "2024-11-11",
+      "tags": [],
+      "author": "",
+      "excerpt": "",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-11-mvi.md"
+    },
+    {
+      "id": "2024-11-11-mp4",
+      "title": "MP4 解析",
+      "date": "2024-11-11",
+      "tags": [
+        "protocol"
+      ],
+      "author": "daweibayu",
+      "excerpt": "概念 wiki mp4 是 MPEG-4 Part 14 的简称。更确切的描述是 mp4 是一种多媒体文件格式，该文件格式的详细定义位于 MPEG-4 Part 14，而具体音视频等具体内容仍散落于 MPEG-4 的其他 Part 中。 MPEG MPEG（Moving Picture Expert",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-11-mp4.md"
+    },
+    {
+      "id": "2024-11-11-m3u8",
+      "title": "M3U8 解析",
+      "date": "2024-11-11",
+      "tags": [
+        "protocol"
+      ],
+      "author": "daweibayu",
+      "excerpt": "HLS m3u8 文件格式是 HLS 协议中的一部分，所以要先介绍 HLS。 HLS 即 的简写。其协议 rfc8216 - HTTP Live Streaming，免费的。 简要历史： 1. Apple 在 WWDC 2009 上首次介绍 HLS 并发布其基本规范。 2. 2013 年 Apple",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-11-m3u8.md"
+    },
+    {
+      "id": "2024-11-11-loadmp4",
+      "title": "一次 mp4 播放到底经历了什么",
+      "date": "2024-11-11",
+      "tags": [
+        "音视频"
+      ],
+      "author": "daweibayu",
+      "excerpt": "一次 mp4 播放到底经历了什么 问题缘由 公司视频使用的是 hls（m3u8）。在讨论如何优化加载速度时，有同事提议换为 mp4，理由是 cdn 友好，但细节其实大家都不了解。具体如何加载 mp4 数据？mp4 具体格式内容又是什么？不甚了了，遂有此文。 主要解释两个问题： 什么是 mp4 一次 ",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-11-loadmp4.md"
+    },
+    {
+      "id": "2024-11-11-jsnativereact",
+      "title": "Js native 交互核心解析（Android）",
+      "date": "2024-11-11",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-11-jsnativereact.md"
+    },
+    {
+      "id": "2024-11-11-h264",
+      "title": "H.264 解析",
+      "date": "2024-11-11",
+      "tags": [
+        "protocol"
+      ],
+      "author": "daweibayu",
+      "excerpt": "简介 H.264（Advanced Video Coding），目前（2024）为止应用最广泛的视频压缩标准。具体协议本身在 ISO/IEC 14496-10 (MPEG-4 Part 10) 中。 关于 MPEG 的详述可以参看 MP4 解析 。14496-10 协议本身是付费的，最新版本大家自己",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-11-h264.md"
+    },
+    {
+      "id": "2024-11-11-dlna",
+      "title": "DLNA 解析",
+      "date": "2024-11-11",
+      "tags": [
+        "protocol"
+      ],
+      "author": "daweibayu",
+      "excerpt": "UPnP UPnP 全拼：Universal Plug and Play UPnp - Wikipedia ietf IBM - UPnP协议编程实践（一） IBM - UPnP协议编程实践（二） Sqlite 数据库在基于 Linux 的 Media NAS 系统中的应用 upnp.org - U",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-11-dlna.md"
+    },
+    {
+      "id": "2024-11-11-assemblyguide",
+      "title": "汇编简介",
+      "date": "2024-11-11",
+      "tags": [
+        "汇编"
+      ],
+      "author": "daweibayu",
+      "excerpt": "",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-11-assemblyguide.md"
+    },
+    {
+      "id": "2024-11-11-annotation",
+      "title": "Android 注解",
+      "date": "2024-11-11",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "<!-- 这是一个多行注释。 可以包含多行文本或代码， 这些内容在页面渲染时都不会显示。 --> <!-- 这是一个隐藏的注释，不会显示在页面中 -->",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-11-annotation.md"
+    },
+    {
+      "id": "2024-11-11-androidunit",
+      "title": "Android 各种单位",
+      "date": "2024-11-11",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-11-androidunit.md"
+    },
+    {
+      "id": "2024-11-02-kotlin_vs_java",
+      "title": "Kotlin 与 Java",
+      "date": "2024-11-02",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-02-kotlin_vs_java.md"
+    },
+    {
+      "id": "2024-11-02-kotlin_coroutine",
+      "title": "协程浅谈",
+      "date": "2024-11-02",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-02-kotlin_coroutine.md"
+    },
+    {
+      "id": "2024-11-02-jni",
+      "title": "JNI",
+      "date": "2024-11-02",
+      "tags": [
+        "JDK"
+      ],
+      "author": "daweibayu",
+      "excerpt": "前提 关于 JNI 的文章很多，但大多都是写怎么使用，本文主要讲述两件事： 1. 数据类型到底是怎么在 jvm 与 native 之间互传的 2. jvm 与 native 的函数调用具体是如何执行的 OpenJDK 扯到 JNI，绕不过 jdk（源码就是最好的文档），而开源版本中使用最广泛的就是 ",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-11-02-jni.md"
+    },
+    {
+      "id": "2024-09-29-generics",
+      "title": "泛型详解",
+      "date": "2024-09-29",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "目的 个人认为最核心的目的就是“少些代码”，将共用逻辑抽象出来，形成“模版”。只不过不同语言、不同平台实现方式不一样、名称不一样。 Java 泛型 示例 ```java class Box<T> { private T item; public void setItem(T item) { this",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-09-29-generics.md"
+    },
+    {
+      "id": "2024-09-26-j1939",
+      "title": "J1939 协议简介(未完)",
+      "date": "2024-09-26",
+      "tags": [
+        "protocol"
+      ],
+      "author": "daweibayu",
+      "excerpt": "等，等灯，等灯，等灯",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-09-26-j1939.md"
+    },
+    {
+      "id": "2024-09-26-isobus11783",
+      "title": "ISOBUS 简介(未完)",
+      "date": "2024-09-26",
+      "tags": [
+        "protocol"
+      ],
+      "author": "daweibayu",
+      "excerpt": "等，等灯，等灯，等灯 温馨提示： 1. 中文版确实有很多错误，而且翻译很一般，所以建议还是啃英文版 2. 官方协议比较贵，可以找咸鱼、淘宝等渠道购买 3. 注意协议版本",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-09-26-isobus11783.md"
+    },
+    {
+      "id": "2024-09-26-canprotocol",
+      "title": "CAN bus 简介(未完)",
+      "date": "2024-09-26",
+      "tags": [
+        "protocol"
+      ],
+      "author": "daweibayu",
+      "excerpt": "等，等灯，等灯，等灯 1. CAN 2.0A/B - Bosch CAN Specification，基础协议，定义了数据帧格式和传输速率 2. ISO 11898 - ISO Standards，国际标准，涉及CAN的物理层和数据链路层 3. CANopen - [CiA (CAN in Auto",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-09-26-canprotocol.md"
+    },
+    {
+      "id": "2024-09-10-prefecturelevelcity",
+      "title": "去过的地方（地级市）",
+      "date": "2024-09-10",
+      "tags": [
+        "生活杂谈"
+      ],
+      "author": "daweibayu",
+      "excerpt": "省级模式 | <!----> | <!----> | <!----> | <!----> | |-----------|---------------|---------------|-------------------| | &x2611; 北京市 | &x2611; 天津市 | &x2611;",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-09-10-prefecturelevelcity.md"
+    },
+    {
+      "id": "2024-08-31-ttl232",
+      "title": "TTL、RS232、RS422、RS485 简介",
+      "date": "2024-08-31",
+      "tags": [
+        "嵌软"
+      ],
+      "author": "daweibayu",
+      "excerpt": "电平标准 | 标准 | 逻辑高电平（1） | 逻辑低电平（1） | 信号类型 | 传输长度 | 所需线数 | | --- | --- | --- | --- | --- | --- | | TTL | 2V - 5V | 0V - 0.8V | 单端信号 | 几厘米到几米 | 2-3根 | | RS",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-08-31-ttl232.md"
+    },
+    {
+      "id": "2024-08-24-ggffile",
+      "title": "大地水准面",
+      "date": "2024-08-24",
+      "tags": [
+        "gis"
+      ],
+      "author": "daweibayu",
+      "excerpt": "释意 大地水准面（geoid），具体详见 wiki Geoid 大地水准面是指地球重力场中，与处于自由静止状态的平均海水面相重合或最为接近的重力等位面。也称为重力等位面，它既是一个几何面，又是一个物理面，物体沿该面运动时，重力不做功（如水在这个面上是不会流动的）。这一假想的海水面不受潮汐、风浪及大气",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-08-24-ggffile.md"
+    },
+    {
+      "id": "2024-08-17-gisIntro",
+      "title": "GIS 扫盲",
+      "date": "2024-08-17",
+      "tags": [
+        "gis"
+      ],
+      "author": "daweibayu",
+      "excerpt": "GIS 几何 $$ \\frac{x^2}{a²} + \\frac{y^2}{b²} + \\frac{z^2}{c²} = 1 $$ 球体（a == b == c） 椭圆体（a != b && b == c） 椭球体（a != b != c） GIS:Geographic Information Sy",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-08-17-gisIntro.md"
+    },
+    {
+      "id": "2024-08-02-talkweb",
+      "title": "互联网漫谈",
+      "date": "2024-08-02",
+      "tags": [
+        "杂谈"
+      ],
+      "author": "daweibayu",
+      "excerpt": "一句话总结 物质决定意识，意识影响物质。屏幕的大小决定了目前移动端的呈现形态。 作为一个 80 后，算是体验了整个移动端的发展 仍然清晰记得 08 年大学刚入学看到同学使用的初代 iphone 后的那种震惊感。因缘际会，学了计算机，因缘际会，进 10 年一直混迹风口行业，从电子书、互联网移动医疗、云",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-08-02-talkweb.md"
+    },
+    {
+      "id": "2024-08-02-covid",
+      "title": "Covid",
+      "date": "2024-08-02",
+      "tags": [
+        "杂谈"
+      ],
+      "author": "daweibayu",
+      "excerpt": "",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-08-02-covid.md"
+    },
+    {
+      "id": "2024-04-14-flutter",
+      "title": "Flutter",
+      "date": "2024-04-14",
+      "tags": [
+        "杂谈"
+      ],
+      "author": "daweibayu",
+      "excerpt": "",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-04-14-flutter.md"
+    },
+    {
+      "id": "2023-11-12-bagua",
+      "title": "太极 & 八卦",
+      "date": "2023-11-12",
+      "tags": [
+        "宗教"
+      ],
+      "author": "daweibayu",
+      "excerpt": "本人无神论，但很喜欢宗教与社科类内容，写这些东西纯粹为了总结和方便日后翻阅（免得有人说我神棍～）。 中华书局的中华经典名著系列的《周易》前言中也曾说“只是蕴含数理逻辑的挂画而已”，个人也认为由数理逻辑角度切入周易的世界是比较容易理解的方式。 简单来说就是二进制表述。 2<sup>0</sup> - ",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-11-12-bagua.md"
+    },
+    {
+      "id": "2023-11-11-music_beat",
+      "title": "基本乐理知识 - 节拍",
+      "date": "2023-11-11",
+      "tags": [
+        "音乐"
+      ],
+      "author": "daweibayu",
+      "excerpt": "强 次强 弱",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-11-11-music_beat.md"
+    },
+    {
+      "id": "2023-11-02-music_major_scale",
+      "title": "基本乐理知识 - 调",
+      "date": "2023-11-02",
+      "tags": [
+        "音乐"
+      ],
+      "author": "daweibayu",
+      "excerpt": "",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-11-02-music_major_scale.md"
+    },
+    {
+      "id": "2023-10-31-music_theory_pitch",
+      "title": "基本乐理知识 - 音高",
+      "date": "2023-10-31",
+      "tags": [
+        "音乐"
+      ],
+      "author": "daweibayu",
+      "excerpt": "废话前言 音乐是由音构成的 音是由于物体振动而产生 音的四种性质：高低、长短、强弱、音色 乐音：规则震动，音的高低明显 噪音：不规则震动，音的高低不明显 乐音体系：基本乐音的总和 音级：乐音体系中的各音 人类的听觉范围由音高和响度共同决定。音高的测量单位为赫兹（Hz），响度的测量单位为分贝（dB）。",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-10-31-music_theory_pitch.md"
+    },
+    {
+      "id": "2023-10-17-arm64guide",
+      "title": "【转载】ARM64指令简易手册",
+      "date": "2023-10-17",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "本文转载自 tenloy - ARM64指令简易手册，仅为防丢 ARM处理器的指令集可以分为跳转指令、数据处理指令、程序状态寄存器（PSR）处理指令、加载/存储指令、协处理器指令和异常产生指令6大指令。 本文只列举一些常见的基本指令，可以正常阅读汇编代码即可。有几个注意点： - 寄存器：为标号，不加",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-10-17-arm64guide.md"
+    },
+    {
+      "id": "2023-10-10-flow",
+      "title": "【转载】Kotlin | 协程Flow数据流",
+      "date": "2023-10-10",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "转自 知乎 - 闲暇君，仅为防丢 Flow介绍 Flow 是 google 官方提供的一套基于 kotlin 协程的响应式编程模型，它与 RxJava 的使用类似，但相比之下 Flow 使用起来更简单，另外 Flow 作用在协程内，可以与协程的生命周期绑定，当协程取消时，Flow 也会被取消，避免了",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-10-10-flow.md"
+    },
+    {
+      "id": "2023-09-13-interview",
+      "title": "synchronized 实现",
+      "date": "2023-09-13",
+      "tags": [
+        "漫谈面试"
+      ],
+      "author": "daweibayu",
+      "excerpt": "其实不太想写这个话题，一是感觉自己资历不足，见的人不够多，平时都是做一线员工的面试，缺少高阶岗位面试的经验；二是这种话题很明显的会牵扯到价值观，就很容易造成误解。但是经历过最近的这一波面试，感觉越来越有必要写一下这个话题。 面试态度 记得第一次面试别人的时候，诚惶诚恐，当时东哥说“没事，随便面，你就",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-09-13-interview.md"
+    },
+    {
+      "id": "2023-08-21-synchronized",
+      "title": "synchronized 实现",
+      "date": "2023-08-21",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "前言 前边几篇文章分别介绍了线程的本质、进程间通讯，剩下的比较重要的一环就是关于线程安全的问题了。因为整个知识点太大，这里只拿 synchronized 为例， 其实关于 synchronized 相关的文章很多，但大多聚焦于什么内存模型、锁升级、volatie 区别等等，你抄我，我抄你，文字一大堆",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-08-21-synchronized.md"
+    },
+    {
+      "id": "2023-08-02-process_ipc",
+      "title": "进程间通讯",
+      "date": "2023-08-02",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "缘由 前些天面试，聊到进程间通讯，大家都知道 Android 进程间通讯最常见的方式是 Binder，而 Binder 使用 mmap，也就是内存映射，但是对于内存映射的具体实现，双方略有不同意见。感觉这里也蛮有趣，大家都背贯了八股，但是对于具体，却都是模棱两可，所以感觉这个议题很有写一篇的必要。 ",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-08-02-process_ipc.md"
+    },
+    {
+      "id": "2023-07-16-glsl",
+      "title": "opengl glsl 语法介绍",
+      "date": "2023-07-16",
+      "tags": [
+        "opengl"
+      ],
+      "author": "daweibayu",
+      "excerpt": "以下内容来自于 The OpenGL® Shading Language <style> table, th, td { border-collapse: separate; border-spacing:2px 1px; border-width: 1px; } tr{background: f6",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-07-16-glsl.md"
+    },
+    {
+      "id": "2023-07-12-talkingplatform",
+      "title": "中台漫谈",
+      "date": "2023-07-12",
+      "tags": [
+        "设计模式"
+      ],
+      "author": "daweibayu",
+      "excerpt": "中台是什么 举个例子，在战争中，有前线部队，也有后勤部队，前线部队可以对应为“前台”，后勤部队可以理解为“中台”。 再举个例子，在公司中，有前台（就公司门口负责接待的前台），有财务，有行政，这些其实也都可以归为中台，行政中台嘛。因为这些角色服务的人群是全公司，并不属于某个具体部门（他们本身就是一个部",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-07-12-talkingplatform.md"
+    },
+    {
+      "id": "2023-07-10-3dmodelloader",
+      "title": "3D 模型加载（Assimp）",
+      "date": "2023-07-10",
+      "tags": [
+        "opengl"
+      ],
+      "author": "daweibayu",
+      "excerpt": "前言 代码完全可以参考 AssimpAndroid，对应 Anand’s blog Use Assimp to load a 3D model，这是原创的作者，但因为工程已经是七年前了，年久失修，如果要 run 起来，需要修改的地方太多。 我参考了 TestAssimp，该工程也",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-07-10-3dmodelloader.md"
+    },
+    {
+      "id": "2023-07-07-fileobj",
+      "title": "obj 文件解析",
+      "date": "2023-07-07",
+      "tags": [
+        "opengl"
+      ],
+      "author": "daweibayu",
+      "excerpt": "obj：object 的简写。obj 文件是可以直接文本打开的。不多说，直接展示“代码”。 moon.obj 文件来源 ```c 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware File Created: 06.10.2013 19:",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-07-07-fileobj.md"
+    },
+    {
+      "id": "2023-07-07-filemtl",
+      "title": "mtl 文件解析",
+      "date": "2023-07-07",
+      "tags": [
+        "opengl"
+      ],
+      "author": "daweibayu",
+      "excerpt": "mtl：Material template library 同 obj 文件相同，都是 ASCII 编码的文件，可以直接打开，所以直接看内容就好 moon.mtl 文件来源 ```shell 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruwa",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-07-07-filemtl.md"
+    },
+    {
+      "id": "2023-07-04-apkencryptionresolution",
+      "title": "【转载】Android App 加固方式判断",
+      "date": "2023-07-04",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "转载自 app加固文件判断 ``` (\"libchaosvmp.so\", \"娜迦\") (\"libddog.so\", \"娜迦\") (\"libfdog.so\", \"娜迦\") (\"libedog.so\", \"娜迦企业版\") (\"libexec.so\", \"爱加密\") (\"libexecmain.so\", ",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-07-04-apkencryptionresolution.md"
+    },
+    {
+      "id": "2023-06-27-assimpcompile",
+      "title": "assimp 编译",
+      "date": "2023-06-27",
+      "tags": [
+        "opengl"
+      ],
+      "author": "daweibayu",
+      "excerpt": "简介 assimp，一个支持多种 3d 格式模型的导入库 本文以 tag v5.2.3 代码为例 其实也有人做了 java 的包装，kotlin assimp，我试了下，现在还是可用的，可以成功导入，但是看样子目前已经没有什么维护了，所以用着玩玩还行，如果是商业环境，就还是算了吧。 关于 assim",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-06-27-assimpcompile.md"
+    },
+    {
+      "id": "2023-06-26-talkingpattern",
+      "title": "设计模式漫谈",
+      "date": "2023-06-26",
+      "tags": [
+        "设计模式"
+      ],
+      "author": "daweibayu",
+      "excerpt": "开门见山一句话，我认为设计模式的核心就是“封装变化点”，用古早软件工程的话语体系说就是“低耦合，高内聚”，用糙一点的话说就是既不要重复代码，又要好扩展。 比如： 工厂模式的核心是解除了对象创建导致的具体依赖，因为在对象的传递过程中可以使用父类型，但是在对象创建时一定是要依赖到特定类型的； 桥接模式的",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-06-26-talkingpattern.md"
+    },
+    {
+      "id": "2023-06-25-threadkernel",
+      "title": "线程的本质（内核层实现）",
+      "date": "2023-06-25",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "源码位置 注意 Android 源码中并不包含 kernel 部分的源码，需要单独下载 构建内核 或者线上 Common Android Kernel Tree 注意版本选择，本文中参考的是 android-gs-bluejay-5.10-android13 版本的源码 主题 书接上回，由 andr",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-06-25-threadkernel.md"
+    },
+    {
+      "id": "2023-06-25-threadart",
+      "title": "线程的本质（art 层实现）",
+      "date": "2023-06-25",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "名词解释 ojluni：OpenJDK、 java.lang 、 java.util 、 java.net 、 java.io 的缩写。This relates to \"luni\" in Android source which stands for lang util net io。 Bionic",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-06-25-threadart.md"
+    },
+    {
+      "id": "2023-06-25-notesonbuildsite",
+      "title": "建站小记",
+      "date": "2023-06-25",
+      "tags": [
+        "生活杂谈"
+      ],
+      "author": "daweibayu",
+      "excerpt": "古早博客在 csdn，后来在简书写了一部分，现在简书几乎处于无法使用状态，还添加各种涉黄广告，无奈，只能自己建站。 数据正在搬运中，但较慢。",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-06-25-notesonbuildsite.md"
+    },
+    {
+      "id": "2023-06-10-cmake",
+      "title": "cmake 介绍",
+      "date": "2023-06-10",
+      "tags": [
+        "C++"
+      ],
+      "author": "daweibayu",
+      "excerpt": "简介 开源、跨平台的构建工具，具体可看官方文档 cmake org。源码可以在 github-cmake 查阅。 历史可以看 cmake history，目前 Android、LLVM、QT 等都默认推荐使用 cmake。 除去官方文档，还有 modern cmake 及其中文版 [Modern C",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-06-10-cmake.md"
+    },
+    {
+      "id": "2022-10-31-adventuresofenterbeijing",
+      "title": "进京历险记",
+      "date": "2022-10-31",
+      "tags": [
+        "生活杂谈"
+      ],
+      "author": "daweibayu",
+      "excerpt": "这些天经历说来也算是值得留下点什么，避免日后忘了。 我们都算是历史长河中的一粒小水花，管中窥豹也好，窥豹一斑也罢。 说来也是怪，凡是我在群里吹水后，总有倒霉事。炒股群里发言后持仓股必跌，去之前的几天前在群里讨论过今年历次出京都无事后，就预感这次可能要出事，也算是一语成谶。 随即飞的票还没用完，且最近",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2022-10-31-adventuresofenterbeijing.md"
+    },
+    {
+      "id": "2022-08-04-climbinginjuly",
+      "title": "七月爬山专项",
+      "date": "2022-08-04",
+      "tags": [
+        "生活杂谈"
+      ],
+      "author": "daweibayu",
+      "excerpt": "前因 一直号称喜欢爬山，但是仔细想想，却没正儿八经爬过几个，所以一直想着搞个爬山专项，以后吹嘘也算名副其实。凑巧疫情缓解，出京只需核酸，落地不需隔离，遂有此行。记此流水账，纯为纪念。 行程流水账 7.10 北京-九华山（KN5901），九华山-石台县（客车），石台县-汪家屋-齐峰村（公交+步行） 夜",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2022-08-04-climbinginjuly.md"
+    },
+    {
+      "id": "2021-04-21-javastructure",
+      "title": "Java 数据结构",
+      "date": "2021-04-21",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "主要数据结构关系图 !一图胜万言 线程安全数据结构 Vector 通过函数上添加 synchronized 关键字保持线程安全 Stack 通过函数上添加 synchronized 关键字保持线程安全，Vector 子类 Hashtable 通过函数上添加 synchronized 关键字保持线程安",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2021-04-21-javastructure.md"
+    },
+    {
+      "id": "2020-08-26-8Questions",
+      "title": "男人八题",
+      "date": "2020-08-26",
+      "tags": [
+        "算法"
+      ],
+      "author": "daweibayu",
+      "excerpt": "做男人不容易系列:是男人就过8题—LouTiancheng题 的来历就不多说了，大家可以去网上搜搜楼教主。 惭愧的是虽然大学就参加过 ACM，而工作这几年，越来越脱离了刷题界，时至今日也没能成为一个真“男人”。工程性质的工作做了这么多年，越感无趣，也该成为一个真“男人”了。 附题目链接与解题报告： ",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2020-08-26-8Questions.md"
+    },
+    {
+      "id": "2018-12-28-agingsingles",
+      "title": "关于大龄单身狗",
+      "date": "2018-12-28",
+      "tags": [
+        "生活杂谈"
+      ],
+      "author": "daweibayu",
+      "excerpt": "其实想写这个话题的念头由来已久，毕竟作为马上三十周岁的人，对此也算是有切肤之痛，颇有感触。昨天翻看朋友圈，看到一位长我一岁的小姐姐在发牢骚，不仅有与父母之间的矛盾，也能看出“坚持”的艰辛。安慰一番，越发触动，所以还是动笔开始了此文。 个人对于\"大龄单身\"的定义，是28周岁且没有固定伴侣，当然具体情况",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2018-12-28-agingsingles.md"
+    },
+    {
+      "id": "2018-12-16-shareandoption",
+      "title": "期权有哪些坑,你知道吗",
+      "date": "2018-12-16",
+      "tags": [
+        "金融"
+      ],
+      "author": "daweibayu",
+      "excerpt": "非原创 原文请见 期权有哪些坑,你知道吗? 一、概念理解篇 1、理解A股、B股、C股等 2、通俗理解期权 2.1、期权 2.2、期权和限制性股票区别 2.3、为什么老板这么热衷于搞期权 3、随处可见的ADR 二、期权行权时需要注意的坑 4.1、未上市行权的障碍 4.2、考虑期权以后被稀释的情况 4.",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2018-12-16-shareandoption.md"
+    },
+    {
+      "id": "2018-09-06-androidRootDebug",
+      "title": "Android 手机 Root、debug 模式（修改源码方式）",
+      "date": "2018-09-06",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "MacOS 下载 Android 源码 MacOS 10.13 编译 Android 源码 Android 源码目录结构解析 Android 手机 Root、debug 模式（修改源码方式） 前言 前边三篇文章写了下载源码、编译和目录解析，当然费了这么大劲搞这玩意不是编译完了就完事了，我们得切切实",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2018-09-06-androidRootDebug.md"
+    },
+    {
+      "id": "2018-09-05-androidSrcPath",
+      "title": "Android 源码目录结构解析",
+      "date": "2018-09-05",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "MacOS 下载 Android 源码 MacOS 10.13 编译 Android 源码 Android 源码目录结构解析 Android 手机 Root、debug 模式（修改源码方式） 前言 前边我们已经介绍如何下载源码了，下载下来后我们也不能大眼瞪小眼，你不认它，它也不认识你，那岂不就白浪",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2018-09-05-androidSrcPath.md"
+    },
+    {
+      "id": "2018-09-04-androidSrcBuildOnMac",
+      "title": "MacOS 10.13 编译 Android 源码",
+      "date": "2018-09-04",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "MacOS 下载 Android 源码 MacOS 10.13 编译 Android 源码 Android 源码目录结构解析 Android 手机 Root、debug 模式（修改源码方式） 前言 原来下载下来编译其实还挺简单的，直接照官方指导执行就行了，结果现在再编译就各种问题，搞了大半天才算彻",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2018-09-04-androidSrcBuildOnMac.md"
+    },
+    {
+      "id": "2018-09-03-trademarkapply",
+      "title": "商标申请",
+      "date": "2018-09-03",
+      "tags": [
+        "金融"
+      ],
+      "author": "daweibayu",
+      "excerpt": "商标的作用不用我多说了，这里直入主题，介绍一下商标的申请流程。 背景 网络上虽然信息不少，但无用信息居多，大多数也都是代理商用来忽悠小白用户的，本着省钱的原则自己走了一遍流程（穷啊），断断续续用时一周（还不如找代理商呢 /捂脸）。 适用对象 需要注册普通商标的企业法人（其他类别用户可参考此流程，但具",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2018-09-03-trademarkapply.md"
+    },
+    {
+      "id": "2018-09-03-androidSrcDownloadInMac",
+      "title": "MacOS 下载 Android 源码",
+      "date": "2018-09-03",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "MacOS 下载 Android 源码 MacOS 10.13 编译 Android 源码 Android 源码目录结构解析 Android 手机 Root、debug 模式（修改源码方式） 相关资源 AOSP （Android Open",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2018-09-03-androidSrcDownloadInMac.md"
+    },
+    {
+      "id": "2017-09-10-thememories",
+      "title": "春风十里不如你",
+      "date": "2017-09-10",
+      "tags": [
+        "生活杂谈"
+      ],
+      "author": "daweibayu",
+      "excerpt": "原本我个人并不是很喜欢这种青春偶像剧，对张一山还有些好感，而周冬雨，以前大概只看过《山楂树之恋》，对其不算感冒，所以对这个电视剧也就从未正眼瞧过。但是最近刷头条，偶然间看到其中片段，被其中小红的神经质吸了粉，对那种单纯的笑完全没有抵抗力，外加张一山演技在线，对这部电视剧便真的感兴趣起来。 原想先试看",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-09-10-thememories.md"
+    },
+    {
+      "id": "2017-09-04-SharedPreferences",
+      "title": "SharedPreferences",
+      "date": "2017-09-04",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "此文主要讲解 SharedPreferences 的具体原理。 搞 Android 的相信应该都使用过 SharedPreferences，相信也都知道此工具主要用于保存的相对较小键值集合，但是具体原因，大家可能不太清楚，这也造成一些乱用。 源码说明一切，下面我们来分析一下源码。 使用 ```jav",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-09-04-SharedPreferences.md"
+    },
+    {
+      "id": "2017-09-01-poj1458",
+      "title": "Poj 1458 Common Subsequence",
+      "date": "2017-09-01",
+      "tags": [],
+      "author": "daweibayu",
+      "excerpt": "Poj 1458 Common Subsequence 题目 ``` Description A subsequence of a given sequence is the given sequence with some elements (possible none) left out. Gi",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-09-01-poj1458.md"
+    },
+    {
+      "id": "2017-08-19-poj3211",
+      "title": "Poj 3211 Washing Clothes",
+      "date": "2017-08-19",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "题目 Poj 3211 Washing Clothes ``` Description Dearboy was so busy recently that now he has piles of clothes to wash. Luckily, he has a beautiful and har",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-08-19-poj3211.md"
+    },
+    {
+      "id": "2017-08-19-poj2063",
+      "title": "Poj 2063 Investment",
+      "date": "2017-08-19",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "题目 Poj 2063 Investment ``` Description John never knew he had a grand-uncle, until he received the notary's letter. He learned that his late grand-unc",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-08-19-poj2063.md"
+    },
+    {
+      "id": "2017-08-19-poj1384",
+      "title": "Poj 1384 Piggy-Bank",
+      "date": "2017-08-19",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "题目 Poj 1384 Piggy-Bank ``` Description Before ACM can do anything, a budget must be prepared and the necessary financial support obtained. The main in",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-08-19-poj1384.md"
+    },
+    {
+      "id": "2017-08-17-poj2392",
+      "title": "Poj 2392 Space Elevator",
+      "date": "2017-08-17",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "题目 Space Elevator ``` Description The cows are going to space! They plan to achieve orbit by building a sort of space elevator: a giant tower of block",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-08-17-poj2392.md"
+    },
+    {
+      "id": "2017-08-17-poj1276",
+      "title": "Poj 1276 Cash Machine",
+      "date": "2017-08-17",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "题目 Cash Machine ``` Description A Bank plans to install a machine for cash withdrawal. The machine is able to deliver appropriate @ bills for a reques",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-08-17-poj1276.md"
+    },
+    {
+      "id": "2017-08-16-poj1742",
+      "title": "POJ 1742「男人八题」",
+      "date": "2017-08-16",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "题目 男人八题 之 Coins ``` Description People in Silverland use coins.They have coins of value A1,A2,A3...An Silverland dollar.One day Tony opened his money-",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-08-16-poj1742.md"
+    },
+    {
+      "id": "2017-08-10-poj1014",
+      "title": "Poj 1014 Dividing",
+      "date": "2017-08-10",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "昨天刷了一个最简单的 01 背包，正好趁热打铁，多搞几个背包的题。题目位于 Dividing，copy 如下： ``` Description Marsha and Bill own a collection of marbles. They want to split the collection",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-08-10-poj1014.md"
+    },
+    {
+      "id": "2017-08-09-poj3624",
+      "title": "Poj 3624 Charm Bracelet",
+      "date": "2017-08-09",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "在搞男人八题之An old Stone Game时竟没有思路了，其实问题不复杂，但是当数据过大时就没法用暴力解决了。感觉这题有点类似背包问题，但是发现竟然想不起背包问题的解决方案了，所以找个最简单的背包问题，先练练手。 题目在 Charm Bracelet，具体如下： {% highlight ma",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-08-09-poj3624.md"
+    },
+    {
+      "id": "2017-07-29-threadjava",
+      "title": "线程的本质（jdk 层实现）",
+      "date": "2017-07-29",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "关于上下文请看 线程本质，下面我们直接进入正题。 使用 先看看我们平时使用的方式，使用线程常见的代码如下： 然后我们知道里边的代码不会阻塞当前的执行流，而是新开一个异步线程去执",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-07-29-threadjava.md"
+    },
+    {
+      "id": "2017-07-29-poj1269",
+      "title": "Poj 1269",
+      "date": "2017-07-29",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "Intersecting Lines 简而言之就是求两条线的关系，平行？重合？相交？如果相交的话求出交叉点。 方式有很多种，有用向量的，有用斜率的。其实这算是个水题，只不过需要考虑点边界情况。 代码如下： ```c++ include <math.h> include <stdio.h> struc",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-07-29-poj1269.md"
+    },
+    {
+      "id": "2017-07-22-poj1737",
+      "title": "Poj 1737「男人八题」",
+      "date": "2017-07-22",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "题目 男人八题 之 Connected Graph 题目内容可以看上边链接，这里不在赘述。就是求 n 个不同点的无向连通图有多少种可能。 解题思路 我们假设，当点为 n 个时： a(n) 为无向连通图的个数。 b(n) 为无向不连通图的个数。 c(n) 为总个数。 很显然，c(n) = a(n) +",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-07-22-poj1737.md"
+    },
+    {
+      "id": "2017-07-12-AsyncTask",
+      "title": "AsyncTask",
+      "date": "2017-07-12",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "面试的时候在问线程通讯的时候很多人都会说到 AsyncTask，但是问到具体实现原理的时候发现很多人都不清楚，甚至有很多都是工作好几年的，感觉也是挺有意思。这里大概介绍一下吧（怎么感觉这篇文章完全是在凑字数？）。 组成 & 目的 官网资料 先列一下官方资料：Android doc AsyncTask",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-07-12-AsyncTask.md"
+    },
+    {
+      "id": "2017-07-06-poj1019",
+      "title": "Poj 1019",
+      "date": "2017-07-06",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "```c++ include <iostream> include <math.h> using namespace std; // 设 t(n) 表示为 123~n 的位数 // 则有 f(n) = f(n-1) + t(n) int length = 80000; int tn[80000]; ",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-07-06-poj1019.md"
+    },
+    {
+      "id": "2017-07-06-poj1013",
+      "title": "Poj 1013",
+      "date": "2017-07-06",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "昨天搞了一晚上，仍然是 Wrong Answer，直到看了 discuss 里边的数据，才知道原来每行里边的数据可以是 n 个，而不是只是实例中的四个。修改了一下，然后按照 discuss 里边的数据验证，终于 a 了。 为了方便看，所以分成了好几个函数。 说一下思路吧，letters 中放的是各个",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-07-06-poj1013.md"
+    },
+    {
+      "id": "2017-07-06-dataType",
+      "title": "数据传输格式简介",
+      "date": "2017-07-06",
+      "tags": [
+        "即时通讯"
+      ],
+      "author": "daweibayu",
+      "excerpt": "前边介绍了一些即使通讯的协议，现在来说一下数据传输的格式。常用的数据格式基本就几种，json、xml、protobuf、文本、二进制、Thrift 等。具体的优劣可以看下图： !常用协议对比 以下这张图是从时间角度来看的（单位：毫秒）： !耗时 下边这张图是从空间角度来看的： !空间 这两张图来自 ",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-07-06-dataType.md"
+    },
+    {
+      "id": "2017-07-05-poj1012",
+      "title": "Poj 1012",
+      "date": "2017-07-05",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "不知不觉毕业五年了，看了下 poj，上一次 submmit 竟然是在 13 年 10 月份，逝者如斯。 具体代码如下，以后有时间再更新思路。 {% highlight c++ %} include <iostream> // 用来记录结果，避免重复计算 int result[20] = {0}; /",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-07-05-poj1012.md"
+    },
+    {
+      "id": "2017-07-04-imIntro",
+      "title": "即时通讯协议简介",
+      "date": "2017-07-04",
+      "tags": [
+        "即时通讯"
+      ],
+      "author": "daweibayu",
+      "excerpt": "即时通讯（Instant Messaging）大家应该都不陌生，平时使用的社交软件（微信、QQ等）基本都包含这种功能。想必看这偏文章的应该也都是同行，这里不做赘述。我们从协议的角度上来分析一下。 即时通讯协议有很多种，包括 WebSocket、MQTT、XMPP，都是应用层协议。应用层协议就有很多了",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-07-04-imIntro.md"
+    },
+    {
+      "id": "2017-06-22-fileprovider",
+      "title": "FileProvider 使用",
+      "date": "2017-06-22",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "前一段时间有用户报点击图片会 crash，以前运行没什么问题，给用户要了堆栈后才发现是不兼容问题。 具体就是 7.0 有一些不兼容更新，具体详见 7.0 Behavior Changes 。关于 FileProvider 可以参见 [FileProvider](https://developer.a",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-06-22-fileprovider.md"
+    },
+    {
+      "id": "2017-06-04-rememberenglishword",
+      "title": "背单词小技巧",
+      "date": "2017-06-04",
+      "tags": [
+        "生活杂谈"
+      ],
+      "author": "daweibayu",
+      "excerpt": "虽然是学计算机专业吧，但是英语一直是我的一个心病。虽然专业类的单词没什么问题的，平时也会上google、stackoverflow去查写东西，但是非专业类的英语就着实很烂了。初中、高中就一直头疼，不过好在应试教育，总还是有很多考试技巧，所以高考成绩也还差强人意，130分。但是到了大学就完蛋了，没有那",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-06-04-rememberenglishword.md"
+    },
+    {
+      "id": "2017-05-27-threadlocal",
+      "title": "ThreadLocal",
+      "date": "2017-05-27",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "这个东东大家可能平时会听说过，但是了解可能不是很多，当然网上也有了很多介绍文章，这里我只按照我的理解来说一下。知道这个东西应该挺多都是看 Looper 看到的。 我们先看看这个东西都是怎么用的： ```java private final Handler uiThreadHandler = new ",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-05-27-threadlocal.md"
+    },
+    {
+      "id": "2017-05-26-handler",
+      "title": "Handler",
+      "date": "2017-05-26",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "不咋想干活了，写篇关于 Handler 的文章。 先看一下我们平时都怎么用的： 开启一个异步线程 workerThread 然后去 work，然后通过 uiThreadHandler 来通知到主线程。 ```java private final Handler uiThreadHandler = n",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-05-26-handler.md"
+    },
+    {
+      "id": "2017-04-26-threadintro",
+      "title": "线程的本质",
+      "date": "2017-04-26",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "前因 大学毕业五年，从刚毕业写 C++ 就遇到各种和线程相关的问题，时光易逝，转眼从小鲜肉变成了老腊肉，但是发现对操作系统的认知仍然停留在大学的书本上。各种语言使用了也不少，大多还都是有线程模型的。 最近几年也面试了很多人，线程通讯、线程安全基本都是必不可少的。前些日子突然想到一个问题，线程的本质是",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-04-26-threadintro.md"
+    },
     {
       "id": "2017-04-06-sessionticket",
       "title": "Android 启用 SessionTicket",
@@ -14,9 +1228,187 @@
       "cover": "",
       "pinned": false,
       "path": "posts/2017-04-06-sessionticket.md"
+    },
+    {
+      "id": "2016-08-26-ustreasurysecurities",
+      "title": "[转载]美国财政与公债殖利率",
+      "date": "2016-08-26",
+      "tags": [
+        "金融"
+      ],
+      "author": "daweibayu",
+      "excerpt": "第四次世界大战：美国财政与公债殖利率 隆庆天下·英雄志 孙晓相关评论/文章 第一节 反常的重力漂浮 首先是美国宣称油页岩开发得到偌大回收，美国已不必再从国外进口石油，其次是美国宣称经济己经正式复苏，即将欣欣向荣，于是第一季里分别出现两个指标，一是道琼在三月份达到历史新高一万五千点，另一个是美国房地产",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2016-08-26-ustreasurysecurities.md"
+    },
+    {
+      "id": "2013-10-10-rotatestr",
+      "title": "字符串旋转",
+      "date": "2013-10-10",
+      "tags": [
+        "算法"
+      ],
+      "author": "daweibayu",
+      "excerpt": "​ 问题： 把字符串前面的若干个字符移动到字符串的尾部。如把字符串abcdef前2位字符移到后面得到字符串cdefab。要求时间对长度为n的字符串操作的复杂度为O(n)，辅助内存为O(1)。 看到大多数的帖子都是进行三次旋转 如：程序员编程艺术：第一章、左旋转字符串vJULYv的博客-CSDN博客 ",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2013-10-10-rotatestr.md"
+    },
+    {
+      "id": "2013-10-09-poj2105",
+      "title": "Poj 2105",
+      "date": "2013-10-09",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "```c++ include <iostream> include <string> using namespace std; char numToChar(int num) { return num + '0'; } int baseStrToInt(const string& sequence,",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2013-10-09-poj2105.md"
+    },
+    {
+      "id": "2013-10-09-poj1546",
+      "title": "Poj 1546",
+      "date": "2013-10-09",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "```c++ include <iostream> include <string> include <iomanip> using namespace std; int charToNum(char element) { if(element <= '9') return element - '0",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2013-10-09-poj1546.md"
+    },
+    {
+      "id": "2013-10-09-poj1220",
+      "title": "Poj 1220",
+      "date": "2013-10-09",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "```c++ include <iostream> include <string> using namespace std; int charToNum(char element) { if(element <= '9') return element - '0'; else if(element",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2013-10-09-poj1220.md"
+    },
+    {
+      "id": "2013-10-04-poj1007",
+      "title": "Poj 1007",
+      "date": "2013-10-04",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "```c++ include <iostream> include <string> include <vector> include <algorithm> using namespace std; struct DNAChain { string chain; int measure; }; i",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2013-10-04-poj1007.md"
+    },
+    {
+      "id": "2013-10-04-poj1002",
+      "title": "Poj 1002",
+      "date": "2013-10-04",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "```c++ include <iostream> include <string> include <map> using namespace std; char telephoneMap[] ={'2', '2', '2', '3', '3', '3', '4', '4', '4', '5', ",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2013-10-04-poj1002.md"
+    },
+    {
+      "id": "2013-10-03-poj1008",
+      "title": "Poj 1008",
+      "date": "2013-10-03",
+      "tags": [
+        "解题报告"
+      ],
+      "author": "daweibayu",
+      "excerpt": "```c++ include <iostream> include <map> include <string> using namespace std; string hollyMounth[20] = {\"imix\", \"ik\", \"akbal\", \"kan\", \"chicchan\", \"cim",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2013-10-03-poj1008.md"
+    },
+    {
+      "id": "2013-03-29-writeconst",
+      "title": "常量区修改",
+      "date": "2013-03-29",
+      "tags": [
+        "C++"
+      ],
+      "author": "daweibayu",
+      "excerpt": "```c++ include <Windows.h> include <stdio.h> int main() { const char a = \"123456\"; const char b = \"123456\"; char c = \"654321\"; DWORD oldprot; HANDLE h",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2013-03-29-writeconst.md"
+    },
+    {
+      "id": "2024-9-10-jvmcas",
+      "title": "CAS 精谈",
+      "date": "",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
+      "excerpt": "关于 CAS 的八股文章已经有很多了，这里不细说。 本文以 AtomicInteger.compareAndSet 举例，直接 show code，为了精简，列出来的代码会删除注释等，如果大家想细看，点开链接就可以了。 java 层 Android 12 及之前的 AtomicInteger 是直接",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2024-9-10-jvmcas.md"
+    },
+    {
+      "id": "2023-11-1-music_theory_staff",
+      "title": "基本乐理知识 - 五线谱",
+      "date": "",
+      "tags": [
+        "音乐"
+      ],
+      "author": "daweibayu",
+      "excerpt": "废话前言 五线谱是干嘛的？记谱的，进来看到想必都是码农，你可以简单理解成类似 Java、Python 的语言，只不过形式是鬼画符。 音的长短、强弱、高低 五线谱 线 线 间 符 音符 休止符 谱号 线 五线谱的五条线，名字如图： !Alt text 五条线中间的区域称为间，名字如图： !Alt te",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-11-1-music_theory_staff.md"
+    },
+    {
+      "id": "2017-06-2-kangrinpoche",
+      "title": "冈仁波齐",
+      "date": "",
+      "tags": [
+        "生活杂谈"
+      ],
+      "author": "daweibayu",
+      "excerpt": "13 年曾辞职骑过滇藏，其后也读过古子文的《深入藏地十万公里》与《艽野尘梦》，对西藏也算是有一定了解。加之本身对宗教也比较感兴趣，针对佛教、藏传佛教的书也看了不少。昨天偶然刷头条看到了这部电影。介绍是一个纪录片，而且是关于朝圣的，所以赶紧定了张下午七点的票。 电影开头大部分时间来讲朝圣的准备工作，宰",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2017-06-2-kangrinpoche.md"
     }
   ],
   "tags": [
-    "Android"
+    "Android",
+    "C++",
+    "Flutter",
+    "JDK",
+    "gis",
+    "iOS",
+    "opengl",
+    "protocol",
+    "即时通讯",
+    "外语",
+    "宗教",
+    "嵌软",
+    "杂谈",
+    "民生",
+    "汇编",
+    "漫谈面试",
+    "生活杂谈",
+    "算法",
+    "解题报告",
+    "设计模式",
+    "金融",
+    "音乐",
+    "音视频"
   ]
 }
