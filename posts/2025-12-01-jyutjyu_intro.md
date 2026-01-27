@@ -3,7 +3,7 @@ layout: post
 title:  "粤语简介"
 author: "daweibayu"
 tags: 语言,粤语
-hide: true
+hidden: true
 excerpt_separator: <!--more-->
 ---
  <!--more-->

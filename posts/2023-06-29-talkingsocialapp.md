@@ -3,7 +3,7 @@ layout: post
 title:  "社交 app 漫谈"
 author: "daweibayu"
 tags: 社交
-hide: true
+hidden: true
 excerpt_separator: <!--more-->
 ---
 

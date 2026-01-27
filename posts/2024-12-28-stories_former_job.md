@@ -3,6 +3,7 @@ layout: post
 title:  "前公司二三事"
 author: "daweibayu"
 tags: 生活杂谈
+hidden: true
 excerpt_separator: <!--more-->
 ---
 
@@ -46,20 +47,20 @@ excerpt_separator: <!--more-->
 优酷、土豆已经被革过一次命了，接下来优、爱、腾或许也该到了被推入历史尘埃的时间了。
 
 
-## 2 号公司（春雨）
+## 2 号公司（S）
 
 
 
-## 3 号公司（LeanCloud）
+## 3 号公司（L）
 
 
-## 4 号公司（洋葱）
+## 4 号公司（O）
 
 
-## 5 号公司（她说）
+## 5 号公司（T）
 
 
-## 6 号公司（丰疆）
+## 6 号公司（F）
 
 
 只待了一年的业务群总监

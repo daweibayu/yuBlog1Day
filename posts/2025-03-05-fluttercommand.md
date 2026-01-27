@@ -3,7 +3,7 @@ layout: post
 title:  "Flutter 命令行"
 author: "daweibayu"
 tags: Flutter
-hide: true
+hidden: true
 excerpt_separator: <!--more-->
 ---
 
