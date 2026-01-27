@@ -1,33 +1,7 @@
 {
-  "generatedAt": "2026-01-27T06:44:06.177705Z",
+  "generatedAt": "2026-01-27T07:24:36.428093Z",
   "pageSize": 10,
   "posts": [
-    {
-      "id": "2025-12-01-jyutjyu_intro",
-      "title": "粤语简介",
-      "date": "2025-12-01",
-      "tags": [
-        "语言,粤语"
-      ],
-      "author": "daweibayu",
-      "excerpt": "声调（6~9个） 九声六调 普通话有四声 + 轻声， 22 个声母，94 个韵母 声母（粤语的辅音） b(爸) p(趴) m(妈) f(花) d(打) t(他) n(拿) l(拉) z(渣) c(叉) s(沙) y(也) g(加) k(卡) ng(丫) h(虾) gu(瓜) ku(跨) w(娃) 韵",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2025-12-01-jyutjyu_intro.md"
-    },
-    {
-      "id": "2025-12-01-français_intro",
-      "title": "法语简介",
-      "date": "2025-12-01",
-      "tags": [
-        "语言,法语"
-      ],
-      "author": "daweibayu",
-      "excerpt": "",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2025-12-01-français_intro.md"
-    },
     {
       "id": "2025-11-17-ioshotpublish",
       "title": "iOS 紧急发布流程",
@@ -42,19 +16,6 @@
       "path": "posts/2025-11-17-ioshotpublish.md"
     },
     {
-      "id": "2025-03-05-fluttercommand",
-      "title": "Flutter 命令行",
-      "date": "2025-03-05",
-      "tags": [
-        "Flutter"
-      ],
-      "author": "daweibayu",
-      "excerpt": "没啥技术含量，gpt 生成，纯粹备忘 以下是基于搜索结果的Flutter常用命令整理表格，涵盖项目创建、依赖管理、构建运行、调试分析等核心场景： | 命令 | 功能描述 | 参数示例/说明 | | ----------- | ----------- | ----------- | | | | | |",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2025-03-05-fluttercommand.md"
-    },
-    {
       "id": "2025-03-04-thread_api",
       "title": "Thread API",
       "date": "2025-03-04",
@@ -66,19 +27,6 @@
       "cover": "",
       "pinned": false,
       "path": "posts/2025-03-04-thread_api.md"
-    },
-    {
-      "id": "2025-02-22-androidpluginization",
-      "title": "这是干啥的？",
-      "date": "2025-02-22",
-      "tags": [
-        "Android"
-      ],
-      "author": "daweibayu",
-      "excerpt": "",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2025-02-22-androidpluginization.md"
     },
     {
       "id": "2025-01-24-pdlprice",
@@ -120,19 +68,6 @@
       "path": "posts/2025-01-05-thai_intro.md"
     },
     {
-      "id": "2024-12-28-stories_former_job",
-      "title": "前公司二三事",
-      "date": "2024-12-28",
-      "tags": [
-        "生活杂谈"
-      ],
-      "author": "daweibayu",
-      "excerpt": "其实想写此文由来已久，但顾虑颇多，公开表达自己的观点与价值观，利弊皆有，孰多孰少却一直没考虑明白，所以一直也不太想发到公网。思来想去，总感觉是作茧自缚，做人只要光明正大，所说确为所想，知行合一，无愧于心，其实也就够了。 咱们先纵向讲各司的故事，然后有机会在横向对比。 有缘看到此文之人，若感有所得，宾",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2024-12-28-stories_former_job.md"
-    },
-    {
       "id": "2024-12-27-esim2fly",
       "title": "【转载】esim2fly 申请",
       "date": "2024-12-27",
@@ -172,19 +107,6 @@
       "path": "posts/2024-11-27-yuvguide.md"
     },
     {
-      "id": "2024-11-21-surfaceview_textureview",
-      "title": "SurfaceView vs TextureView",
-      "date": "2024-11-21",
-      "tags": [
-        "Android"
-      ],
-      "author": "daweibayu",
-      "excerpt": "",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2024-11-21-surfaceview_textureview.md"
-    },
-    {
       "id": "2024-11-19-social_info_index",
       "title": "社会信息索引",
       "date": "2024-11-19",
@@ -196,32 +118,6 @@
       "cover": "",
       "pinned": false,
       "path": "posts/2024-11-19-social_info_index.md"
-    },
-    {
-      "id": "2024-11-11-mvvm",
-      "title": "MVVM",
-      "date": "2024-11-11",
-      "tags": [
-        "Android"
-      ],
-      "author": "daweibayu",
-      "excerpt": "",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2024-11-11-mvvm.md"
-    },
-    {
-      "id": "2024-11-11-mvi",
-      "title": "MVI",
-      "date": "2024-11-11",
-      "tags": [
-        "Android"
-      ],
-      "author": "daweibayu",
-      "excerpt": "",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2024-11-11-mvi.md"
     },
     {
       "id": "2024-11-11-mp4",
@@ -263,19 +159,6 @@
       "path": "posts/2024-11-11-loadmp4.md"
     },
     {
-      "id": "2024-11-11-jsnativereact",
-      "title": "Js native 交互核心解析（Android）",
-      "date": "2024-11-11",
-      "tags": [
-        "Android"
-      ],
-      "author": "daweibayu",
-      "excerpt": "",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2024-11-11-jsnativereact.md"
-    },
-    {
       "id": "2024-11-11-h264",
       "title": "H.264 解析",
       "date": "2024-11-11",
@@ -287,84 +170,6 @@
       "cover": "",
       "pinned": false,
       "path": "posts/2024-11-11-h264.md"
-    },
-    {
-      "id": "2024-11-11-dlna",
-      "title": "DLNA 解析",
-      "date": "2024-11-11",
-      "tags": [
-        "protocol"
-      ],
-      "author": "daweibayu",
-      "excerpt": "UPnP UPnP 全拼：Universal Plug and Play UPnp - Wikipedia ietf IBM - UPnP协议编程实践（一） IBM - UPnP协议编程实践（二） Sqlite 数据库在基于 Linux 的 Media NAS 系统中的应用 upnp.org - U",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2024-11-11-dlna.md"
-    },
-    {
-      "id": "2024-11-11-assemblyguide",
-      "title": "汇编简介",
-      "date": "2024-11-11",
-      "tags": [
-        "汇编"
-      ],
-      "author": "daweibayu",
-      "excerpt": "",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2024-11-11-assemblyguide.md"
-    },
-    {
-      "id": "2024-11-11-annotation",
-      "title": "Android 注解",
-      "date": "2024-11-11",
-      "tags": [
-        "Android"
-      ],
-      "author": "daweibayu",
-      "excerpt": "<!-- 这是一个多行注释。 可以包含多行文本或代码， 这些内容在页面渲染时都不会显示。 --> <!-- 这是一个隐藏的注释，不会显示在页面中 -->",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2024-11-11-annotation.md"
-    },
-    {
-      "id": "2024-11-11-androidunit",
-      "title": "Android 各种单位",
-      "date": "2024-11-11",
-      "tags": [
-        "Android"
-      ],
-      "author": "daweibayu",
-      "excerpt": "",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2024-11-11-androidunit.md"
-    },
-    {
-      "id": "2024-11-02-kotlin_vs_java",
-      "title": "Kotlin 与 Java",
-      "date": "2024-11-02",
-      "tags": [
-        "Android"
-      ],
-      "author": "daweibayu",
-      "excerpt": "",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2024-11-02-kotlin_vs_java.md"
-    },
-    {
-      "id": "2024-11-02-kotlin_coroutine",
-      "title": "协程浅谈",
-      "date": "2024-11-02",
-      "tags": [
-        "Android"
-      ],
-      "author": "daweibayu",
-      "excerpt": "",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2024-11-02-kotlin_coroutine.md"
     },
     {
       "id": "2024-11-02-jni",
@@ -484,84 +289,6 @@
       "path": "posts/2024-08-17-gisIntro.md"
     },
     {
-      "id": "2024-08-02-talkweb",
-      "title": "互联网漫谈",
-      "date": "2024-08-02",
-      "tags": [
-        "杂谈"
-      ],
-      "author": "daweibayu",
-      "excerpt": "一句话总结 物质决定意识，意识影响物质。屏幕的大小决定了目前移动端的呈现形态。 作为一个 80 后，算是体验了整个移动端的发展 仍然清晰记得 08 年大学刚入学看到同学使用的初代 iphone 后的那种震惊感。因缘际会，学了计算机，因缘际会，进 10 年一直混迹风口行业，从电子书、互联网移动医疗、云",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2024-08-02-talkweb.md"
-    },
-    {
-      "id": "2024-08-02-covid",
-      "title": "Covid",
-      "date": "2024-08-02",
-      "tags": [
-        "杂谈"
-      ],
-      "author": "daweibayu",
-      "excerpt": "",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2024-08-02-covid.md"
-    },
-    {
-      "id": "2024-04-14-flutter",
-      "title": "Flutter",
-      "date": "2024-04-14",
-      "tags": [
-        "杂谈"
-      ],
-      "author": "daweibayu",
-      "excerpt": "",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2024-04-14-flutter.md"
-    },
-    {
-      "id": "2023-11-12-bagua",
-      "title": "太极 & 八卦",
-      "date": "2023-11-12",
-      "tags": [
-        "宗教"
-      ],
-      "author": "daweibayu",
-      "excerpt": "本人无神论，但很喜欢宗教与社科类内容，写这些东西纯粹为了总结和方便日后翻阅（免得有人说我神棍～）。 中华书局的中华经典名著系列的《周易》前言中也曾说“只是蕴含数理逻辑的挂画而已”，个人也认为由数理逻辑角度切入周易的世界是比较容易理解的方式。 简单来说就是二进制表述。 2<sup>0</sup> - ",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2023-11-12-bagua.md"
-    },
-    {
-      "id": "2023-11-11-music_beat",
-      "title": "基本乐理知识 - 节拍",
-      "date": "2023-11-11",
-      "tags": [
-        "音乐"
-      ],
-      "author": "daweibayu",
-      "excerpt": "强 次强 弱",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2023-11-11-music_beat.md"
-    },
-    {
-      "id": "2023-11-02-music_major_scale",
-      "title": "基本乐理知识 - 调",
-      "date": "2023-11-02",
-      "tags": [
-        "音乐"
-      ],
-      "author": "daweibayu",
-      "excerpt": "",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2023-11-02-music_major_scale.md"
-    },
-    {
       "id": "2023-10-31-music_theory_pitch",
       "title": "基本乐理知识 - 音高",
       "date": "2023-10-31",
@@ -573,32 +300,6 @@
       "cover": "",
       "pinned": false,
       "path": "posts/2023-10-31-music_theory_pitch.md"
-    },
-    {
-      "id": "2023-10-17-arm64guide",
-      "title": "【转载】ARM64指令简易手册",
-      "date": "2023-10-17",
-      "tags": [
-        "Android"
-      ],
-      "author": "daweibayu",
-      "excerpt": "本文转载自 tenloy - ARM64指令简易手册，仅为防丢 ARM处理器的指令集可以分为跳转指令、数据处理指令、程序状态寄存器（PSR）处理指令、加载/存储指令、协处理器指令和异常产生指令6大指令。 本文只列举一些常见的基本指令，可以正常阅读汇编代码即可。有几个注意点： - 寄存器：为标号，不加",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2023-10-17-arm64guide.md"
-    },
-    {
-      "id": "2023-10-10-flow",
-      "title": "【转载】Kotlin | 协程Flow数据流",
-      "date": "2023-10-10",
-      "tags": [
-        "Android"
-      ],
-      "author": "daweibayu",
-      "excerpt": "转自 知乎 - 闲暇君，仅为防丢 Flow介绍 Flow 是 google 官方提供的一套基于 kotlin 协程的响应式编程模型，它与 RxJava 的使用类似，但相比之下 Flow 使用起来更简单，另外 Flow 作用在协程内，可以与协程的生命周期绑定，当协程取消时，Flow 也会被取消，避免了",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2023-10-10-flow.md"
     },
     {
       "id": "2023-09-13-interview",
@@ -705,17 +406,6 @@
       "path": "posts/2023-07-07-filemtl.md"
     },
     {
-      "id": "2023-07-04-selfIntro",
-      "title": "个人介绍",
-      "date": "2023-07-04",
-      "tags": [],
-      "author": "daweibayu",
-      "excerpt": "进来的应该都是通过简历链过来的",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2023-07-04-selfIntro.md"
-    },
-    {
       "id": "2023-07-04-apkencryptionresolution",
       "title": "【转载】Android App 加固方式判断",
       "date": "2023-07-04",
@@ -727,32 +417,6 @@
       "cover": "",
       "pinned": false,
       "path": "posts/2023-07-04-apkencryptionresolution.md"
-    },
-    {
-      "id": "2023-06-29-talkingsocialapp",
-      "title": "社交 app 漫谈",
-      "date": "2023-06-29",
-      "tags": [
-        "社交"
-      ],
-      "author": "daweibayu",
-      "excerpt": "去年下半年写了个社交 app 的 demo，今年初尝试着投了个训练营，反馈的结果是“伪需求”，备受打击。以前跟 pm pk 需求时，经常说“伪需求”，这回轮到自己了，五味杂陈。关于此点，其实有很多话想说，正巧最近有兴趣搞博客，遂有此文。 先说观点吧，我是绝对不认为这是伪需求的，但是目前为止确实是缺少",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2023-06-29-talkingsocialapp.md"
-    },
-    {
-      "id": "2023-06-27-talkingpsychology",
-      "title": "心理学杂谈",
-      "date": "2023-06-27",
-      "tags": [
-        "心理学"
-      ],
-      "author": "daweibayu",
-      "excerpt": "我个人的理论 分三层 基因性 动物性 人性 所有的东西基于这三个维度去划分，就很容易区分哪个更底层 比如： 婚姻一定是属于人性的 交配则是属于动物性的 其实以前一直有个疑惑，为啥神仙不分男女？前两年突然想明白了，即然神仙可以长生，又不生孩子，那干嘛要分男女？由此可见，神仙是不会有男女感情的，因为男女",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2023-06-27-talkingpsychology.md"
     },
     {
       "id": "2023-06-27-assimpcompile",
@@ -805,19 +469,6 @@
       "cover": "",
       "pinned": false,
       "path": "posts/2023-06-25-threadart.md"
-    },
-    {
-      "id": "2023-06-25-notesonbuildsite",
-      "title": "建站小记",
-      "date": "2023-06-25",
-      "tags": [
-        "生活杂谈"
-      ],
-      "author": "daweibayu",
-      "excerpt": "古早博客在 csdn，后来在简书写了一部分，现在简书几乎处于无法使用状态，还添加各种涉黄广告，无奈，只能自己建站。 数据正在搬运中，但较慢。",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2023-06-25-notesonbuildsite.md"
     },
     {
       "id": "2023-06-10-cmake",
@@ -1442,19 +1093,6 @@
       "path": "posts/2024-9-10-jvmcas.md"
     },
     {
-      "id": "2023-11-1-music_theory_staff",
-      "title": "基本乐理知识 - 五线谱",
-      "date": "",
-      "tags": [
-        "音乐"
-      ],
-      "author": "daweibayu",
-      "excerpt": "废话前言 五线谱是干嘛的？记谱的，进来看到想必都是码农，你可以简单理解成类似 Java、Python 的语言，只不过形式是鬼画符。 音的长短、强弱、高低 五线谱 线 线 间 符 音符 休止符 谱号 线 五线谱的五条线，名字如图： !Alt text 五条线中间的区域称为间，名字如图： !Alt te",
-      "cover": "",
-      "pinned": false,
-      "path": "posts/2023-11-1-music_theory_staff.md"
-    },
-    {
       "id": "2017-06-2-kangrinpoche",
       "title": "冈仁波齐",
       "date": "",
@@ -1479,20 +1117,13 @@
     "protocol",
     "即时通讯",
     "外语",
-    "宗教",
     "嵌软",
-    "心理学",
-    "杂谈",
     "民生",
-    "汇编",
     "漫谈面试",
     "生活杂谈",
-    "社交",
     "算法",
     "解题报告",
     "设计模式",
-    "语言,法语",
-    "语言,粤语",
     "金融",
     "音乐",
     "音视频"
