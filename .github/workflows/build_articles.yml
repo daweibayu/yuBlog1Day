@@ -55,6 +55,9 @@ jobs:
           cp -r assets gh-pages/articles/
           cp posts.json gh-pages/articles/
           
+          # 创建 .nojekyll 文件（禁用 Jekyll，允许直接访问 .md 文件）
+          touch gh-pages/.nojekyll
+          
           # 查看结果
           ls -la gh-pages/articles/
 

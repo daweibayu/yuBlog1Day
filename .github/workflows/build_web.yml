@@ -56,6 +56,9 @@ jobs:
           # 创建 CNAME 文件（自定义域名）
           echo "daweibayu.top" > gh-pages/CNAME
           
+          # 创建 .nojekyll 文件（禁用 Jekyll，允许直接访问 .md 文件）
+          touch gh-pages/.nojekyll
+          
           # 查看结果
           ls -la gh-pages/
 
