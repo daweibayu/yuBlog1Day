@@ -3,6 +3,7 @@ layout: post
 title:  "基本乐理知识 - 五线谱"
 author: "daweibayu"
 tags: 音乐
+hidden: true
 excerpt_separator: <!--more-->
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "心理学杂谈"
 author: "daweibayu"
 tags: 心理学
-hide: true
+hidden: true
 excerpt_separator: <!--more-->
 ---
  <!--more-->

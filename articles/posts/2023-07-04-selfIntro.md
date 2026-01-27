@@ -2,7 +2,7 @@
 layout: post
 title:  "个人介绍"
 author: "daweibayu"
-hide: true
+hidden: true
 excerpt_separator: <!--more-->
 ---
 

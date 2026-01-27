@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-01-27T06:23:13.591304Z",
+  "generatedAt": "2026-01-27T06:44:06.177705Z",
   "pageSize": 10,
   "posts": [
+    {
+      "id": "2025-12-01-jyutjyu_intro",
+      "title": "粤语简介",
+      "date": "2025-12-01",
+      "tags": [
+        "语言,粤语"
+      ],
+      "author": "daweibayu",
+      "excerpt": "声调（6~9个） 九声六调 普通话有四声 + 轻声， 22 个声母，94 个韵母 声母（粤语的辅音） b(爸) p(趴) m(妈) f(花) d(打) t(他) n(拿) l(拉) z(渣) c(叉) s(沙) y(也) g(加) k(卡) ng(丫) h(虾) gu(瓜) ku(跨) w(娃) 韵",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2025-12-01-jyutjyu_intro.md"
+    },
+    {
+      "id": "2025-12-01-français_intro",
+      "title": "法语简介",
+      "date": "2025-12-01",
+      "tags": [
+        "语言,法语"
+      ],
+      "author": "daweibayu",
+      "excerpt": "",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2025-12-01-français_intro.md"
+    },
     {
       "id": "2025-11-17-ioshotpublish",
       "title": "iOS 紧急发布流程",
@@ -14,6 +40,19 @@
       "cover": "",
       "pinned": false,
       "path": "posts/2025-11-17-ioshotpublish.md"
+    },
+    {
+      "id": "2025-03-05-fluttercommand",
+      "title": "Flutter 命令行",
+      "date": "2025-03-05",
+      "tags": [
+        "Flutter"
+      ],
+      "author": "daweibayu",
+      "excerpt": "没啥技术含量，gpt 生成，纯粹备忘 以下是基于搜索结果的Flutter常用命令整理表格，涵盖项目创建、依赖管理、构建运行、调试分析等核心场景： | 命令 | 功能描述 | 参数示例/说明 | | ----------- | ----------- | ----------- | | | | | |",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2025-03-05-fluttercommand.md"
     },
     {
       "id": "2025-03-04-thread_api",
@@ -30,10 +69,12 @@
     },
     {
       "id": "2025-02-22-androidpluginization",
-      "title": "",
+      "title": "这是干啥的？",
       "date": "2025-02-22",
-      "tags": [],
-      "author": "",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
       "excerpt": "",
       "cover": "",
       "pinned": false,
@@ -158,10 +199,12 @@
     },
     {
       "id": "2024-11-11-mvvm",
-      "title": "",
+      "title": "MVVM",
       "date": "2024-11-11",
-      "tags": [],
-      "author": "",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
       "excerpt": "",
       "cover": "",
       "pinned": false,
@@ -169,10 +212,12 @@
     },
     {
       "id": "2024-11-11-mvi",
-      "title": "",
+      "title": "MVI",
       "date": "2024-11-11",
-      "tags": [],
-      "author": "",
+      "tags": [
+        "Android"
+      ],
+      "author": "daweibayu",
       "excerpt": "",
       "cover": "",
       "pinned": false,
@@ -660,6 +705,17 @@
       "path": "posts/2023-07-07-filemtl.md"
     },
     {
+      "id": "2023-07-04-selfIntro",
+      "title": "个人介绍",
+      "date": "2023-07-04",
+      "tags": [],
+      "author": "daweibayu",
+      "excerpt": "进来的应该都是通过简历链过来的",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-07-04-selfIntro.md"
+    },
+    {
       "id": "2023-07-04-apkencryptionresolution",
       "title": "【转载】Android App 加固方式判断",
       "date": "2023-07-04",
@@ -671,6 +727,32 @@
       "cover": "",
       "pinned": false,
       "path": "posts/2023-07-04-apkencryptionresolution.md"
+    },
+    {
+      "id": "2023-06-29-talkingsocialapp",
+      "title": "社交 app 漫谈",
+      "date": "2023-06-29",
+      "tags": [
+        "社交"
+      ],
+      "author": "daweibayu",
+      "excerpt": "去年下半年写了个社交 app 的 demo，今年初尝试着投了个训练营，反馈的结果是“伪需求”，备受打击。以前跟 pm pk 需求时，经常说“伪需求”，这回轮到自己了，五味杂陈。关于此点，其实有很多话想说，正巧最近有兴趣搞博客，遂有此文。 先说观点吧，我是绝对不认为这是伪需求的，但是目前为止确实是缺少",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-06-29-talkingsocialapp.md"
+    },
+    {
+      "id": "2023-06-27-talkingpsychology",
+      "title": "心理学杂谈",
+      "date": "2023-06-27",
+      "tags": [
+        "心理学"
+      ],
+      "author": "daweibayu",
+      "excerpt": "我个人的理论 分三层 基因性 动物性 人性 所有的东西基于这三个维度去划分，就很容易区分哪个更底层 比如： 婚姻一定是属于人性的 交配则是属于动物性的 其实以前一直有个疑惑，为啥神仙不分男女？前两年突然想明白了，即然神仙可以长生，又不生孩子，那干嘛要分男女？由此可见，神仙是不会有男女感情的，因为男女",
+      "cover": "",
+      "pinned": false,
+      "path": "posts/2023-06-27-talkingpsychology.md"
     },
     {
       "id": "2023-06-27-assimpcompile",
@@ -1399,14 +1481,18 @@
     "外语",
     "宗教",
     "嵌软",
+    "心理学",
     "杂谈",
     "民生",
     "汇编",
     "漫谈面试",
     "生活杂谈",
+    "社交",
     "算法",
     "解题报告",
     "设计模式",
+    "语言,法语",
+    "语言,粤语",
     "金融",
     "音乐",
     "音视频"
