@@ -17,7 +17,7 @@
 
 ## 3. 内容规范与数据结构
 * Front Matter 规范：
-  * 所有字段可选：`title`、`date`（YYYY-MM-DD）、`author`、`tags`、`excerpt_separator`（默认 `<!--more-->`）、`cover`、`pinned`（默认 `false`）、`hide`（默认 `false`）
+  * 所有字段可选：`title`、`date`（YYYY-MM-DD）、`author`、`tags`、`excerpt_separator`（默认 `<!--more-->`）、`cover`、`pinned`（默认 `false`）、`hidden`（默认 `false`）
   * 忽略：`layout`（Jekyll 遗留字段）
 * `posts.json` 字段：`generatedAt`、`pageSize`、`posts[]`、`tags[]`
 * `posts[]` 字段：`id`、`title`、`date`、`tags`、`author`、`excerpt`、`cover`、`pinned`、`path`
@@ -29,7 +29,7 @@
   * `tags`：统一转为数组格式（字符串转 `[string]`）
   * `excerpt`：优先使用 `excerpt_separator` 切分，无则取前 50 字符（去除 Markdown 语法）
   * `cover`：可空，为空时使用默认占位图
-  * `hide`：为 `true` 时不写入 `posts.json`（不在列表显示，也无法直链）
+  * `hidden`：为 `true` 时不写入 `posts.json`（不在列表显示，也无法直链）
 * `posts.json` 中 `tags[]`：所有文章标签汇总，去重、排序
 * 分页：客户端分页，一次拉取全部 `posts.json`
 

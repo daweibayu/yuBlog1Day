@@ -31,8 +31,8 @@ def parse_front_matter(content: str) -> tuple[dict, str]:
                 else:
                     # 单个标签
                     value = [value] if value else []
-            # 处理 pinned 和 hide 字段
-            elif key in ('pinned', 'hide'):
+            # 处理 pinned 和 hidden 字段
+            elif key in ('pinned', 'hidden'):
                 value = value.lower() == 'true'
             front_matter[key] = value
     
@@ -85,7 +85,7 @@ def build_posts_json(posts_dir: str, output_file: str, page_size: int = 10):
         front_matter, body = parse_front_matter(content)
         
         # 跳过隐藏文章
-        if front_matter.get('hide', False):
+        if front_matter.get('hidden', False):
             continue
         
         post_id = md_file.stem  # 文件名不含扩展名
