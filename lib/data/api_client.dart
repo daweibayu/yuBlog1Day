@@ -15,7 +15,8 @@ class ApiClient {
   Future<PostsResponse> getPosts() async {
     final response = await _client.get(Uri.parse('$articlesBase/posts.json'));
     if (response.statusCode == 200) {
-      final json = jsonDecode(response.body) as Map<String, dynamic>;
+      final body = utf8.decode(response.bodyBytes);
+      final json = jsonDecode(body) as Map<String, dynamic>;
       return PostsResponse.fromJson(json);
     }
     throw Exception('Failed to load posts: ${response.statusCode}');
@@ -25,7 +26,7 @@ class ApiClient {
   Future<String> getPostContent(String path) async {
     final response = await _client.get(Uri.parse('$articlesBase/$path'));
     if (response.statusCode == 200) {
-      return response.body;
+      return utf8.decode(response.bodyBytes);
     }
     throw Exception('Failed to load post content: ${response.statusCode}');
   }
@@ -34,7 +35,7 @@ class ApiClient {
   Future<String> getPageContent(String path) async {
     final response = await _client.get(Uri.parse('$articlesBase/$path'));
     if (response.statusCode == 200) {
-      return response.body;
+      return utf8.decode(response.bodyBytes);
     }
     throw Exception('Failed to load page content: ${response.statusCode}');
   }

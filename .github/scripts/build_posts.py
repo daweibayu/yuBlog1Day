@@ -40,15 +40,21 @@ def parse_front_matter(content: str) -> tuple[dict, str]:
     return front_matter, body
 
 def extract_excerpt(body: str, separator: str = '<!--more-->', max_chars: int = 150) -> str:
-    """提取摘要"""
-    # 去除开头的 separator
-    body = body.lstrip()
-    if body.startswith(separator):
-        body = body[len(separator):].lstrip()
+    """提取摘要
+    
+    规则：
+    1. 如果正文中有 separator，严格取 separator 之前的内容作为摘要（可能为空）
+    2. 只有当正文中没有 separator 时，才截取正文前 max_chars 个字符
+    """
+    body = body.strip()
     
     if separator in body:
+        # 有 separator，严格取之前的内容
         excerpt = body.split(separator)[0].strip()
+        if not excerpt:
+            return ''  # separator 之前没有内容，摘要为空
     else:
+        # 没有 separator，截取正文
         excerpt = body[:max_chars * 2]  # 取更多内容，后面会截断
     
     # 去除 Markdown 语法
